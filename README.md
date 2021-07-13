@@ -16,9 +16,9 @@
 予測時
 > python inference.py
 
-画像を変更する時は以下の様に変更をする
+画像を変更する時はconfig.pyを以下の様に変更をする
 
-```config.py
+```
 ・
 ・
 ・
